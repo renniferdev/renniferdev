@@ -6,17 +6,20 @@
 
 # Sobre mim
 
-Sou Rennifer Amilton Teixeira, estudante de programação apaixonado por tecnologia e em busca de meu primeiro estágio na área. Com foco em JavaScript, HTML, CSS e Next.js, venho desenvolvendo projetos práticos que me ajudam a crescer como desenvolvedor.
-
-🚀 Objetivo: Minha meta é integrar uma equipe onde eu possa aplicar minhas habilidades e continuar evoluindo, contribuindo para a criação de soluções tecnológicas inovadoras.
+Estudante de programação com foco em JavaScript, HTML, CSS e Next.js, em busca do primeiro estágio para aplicar conhecimentos adquiridos em projetos práticos.
 
 🔧 Habilidades Técnicas:
 
 HTML, CSS, JavaScript
-React e Next.js
-Node.js
+React e Next.js (incluindo React Hooks)
+Node.js, Express, noSQL
+Redux, Design Patterns
+Programação Orientada a Objetos (POO)
 Git e controle de versão
-💡 Por que me contratar? Sou proativo, gosto de desafios e sempre busco aprender novas tecnologias. Acredito que meu comprometimento com o aprendizado contínuo e minha paixão por desenvolver soluções eficientes me tornam um candidato valioso para seu time. 
+
+💡 Diferenciais: Proativo, com grande capacidade de aprender e enfrentar desafios. Sólido conhecimento em front-end e back-end com JavaScript e TypeScript, incluindo tecnologias como React, Hooks, Redux, Node.js, Express e Design Patterns, além de um compromisso constante com a melhoria e eficiência no desenvolvimento de soluções tecnológicas.
+
+🚀 Objetivo: Integrar uma equipe inovadora, contribuindo com soluções eficazes e evoluindo através de novos desafios. 
 
 ## 💻 Ferramentas e Tecnologias
 
