@@ -6,16 +6,11 @@
 
 # Sobre mim
 
-Estudante de programação com foco em JavaScript, HTML, CSS e Next.js, em busca do primeiro estágio para aplicar conhecimentos adquiridos em projetos práticos.
+Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web responsivas e integração de APIs. Tenho domínio de ferramentas e tecnologias como React, Node.js, TypeScript, JavaScript, e MySQL, aplicando boas práticas de programação em todos os projetos.
 
-🔧 Habilidades Técnicas:
+Ao longo da minha trajetória, desenvolvi soluções como um CRUD Full Stack para gerenciamento de usuários e projetos que integram APIs REST, sempre focando na componentização e responsividade. Como profissional autodidata, estou em constante evolução, criando projetos práticos para fortalecer minhas habilidades.
 
-HTML, CSS, JavaScript
-React e Next.js (incluindo React Hooks)
-Node.js, Express, noSQL
-Redux, Design Patterns
-Programação Orientada a Objetos (POO)
-Git e controle de versão
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas com previsão de formatura em 2025 e possuo certificação em Full Stack Development pela Udemy. Estou em busca de oportunidades como Junior Full Stack Developer ou Desenvolvedor Full Stack Estagiário, com o objetivo de colaborar em equipes dinâmicas, agregar valor ao negócio e crescer profissionalmente.
 
 💡 Diferenciais: Proativo, com grande capacidade de aprender e enfrentar desafios. Sólido conhecimento em front-end e back-end com JavaScript e TypeScript, incluindo tecnologias como React, Hooks, Redux, Node.js, Express e Design Patterns, além de um compromisso constante com a melhoria e eficiência no desenvolvimento de soluções tecnológicas.
 
